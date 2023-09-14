@@ -16,3 +16,45 @@
 [submodule "Semester-3/tugas-besar-logika-komputasional-2022-pemujamejadepan"]
 	path = Semester-3/tugas-besar-logika-komputasional-2022-pemujamejadepan
 	url = https://github.com/GAIB20/tugas-besar-logika-komputasional-2022-pemujamejadepan.git
+[submodule "Semester-4/Praktikum-OOP"]
+	path = Semester-4/Praktikum-OOP
+	url = https://github.com/IceTeaXXD/Praktikum-OOP.git
+[submodule "Semester-4/ShoppingSANS"]
+	path = Semester-4/ShoppingSANS
+	url = https://github.com/IceTeaXXD/ShoppingSANS.git
+[submodule "Semester-4/redStarOSKW"]
+	path = Semester-4/redStarOSKW
+	url = https://github.com/IceTeaXXD/redStarOSKW.git
+[submodule "Semester-4/KitaBisaJalanJalan"]
+	path = Semester-4/KitaBisaJalanJalan
+	url = https://github.com/IceTeaXXD/KitaBisaJalanJalan.git
+[submodule "Semester-4/TicTacToe-Bot"]
+	path = Semester-4/TicTacToe-Bot
+	url = https://github.com/IceTeaXXD/TicTacToe-Bot.git
+[submodule "Semester-4/Tubes3_ChatAkuDong_FE"]
+	path = Semester-4/Tubes3_ChatAkuDong_FE
+	url = https://github.com/IceTeaXXD/Tubes3_ChatAkuDong_FE.git
+[submodule "Semester-4/Tubes3_ChatAkuDong_BE"]
+	path = Semester-4/Tubes3_ChatAkuDong_BE
+	url = https://github.com/IceTeaXXD/Tubes3_ChatAkuDong_BE.git
+[submodule "Semester-4/K3-T1-IF2220-13521003-13521024"]
+	path = Semester-4/K3-T1-IF2220-13521003-13521024
+	url = https://github.com/IceTeaXXD/K3-T1-IF2220-13521003-13521024.git
+[submodule "Semester-4/Tucil3_13521021_13521024"]
+	path = Semester-4/Tucil3_13521021_13521024
+	url = https://github.com/IceTeaXXD/Tucil3_13521021_13521024.git
+[submodule "Semester-4/Tubes2_HuntingDuit"]
+	path = Semester-4/Tubes2_HuntingDuit
+	url = https://github.com/IceTeaXXD/Tubes2_HuntingDuit.git
+[submodule "Semester-4/GamblingSANS"]
+	path = Semester-4/GamblingSANS
+	url = https://github.com/IceTeaXXD/GamblingSANS.git
+[submodule "Semester-4/Tucil2_13521019_13521024"]
+	path = Semester-4/Tucil2_13521019_13521024
+	url = https://github.com/IceTeaXXD/Tucil2_13521019_13521024.git
+[submodule "Semester-4/Tubes1_beweGanteng"]
+	path = Semester-4/Tubes1_beweGanteng
+	url = https://github.com/IceTeaXXD/Tubes1_beweGanteng.git
+[submodule "Semester-4/Tucil1_13521024"]
+	path = Semester-4/Tucil1_13521024
+	url = https://github.com/IceTeaXXD/Tucil1_13521024.git
