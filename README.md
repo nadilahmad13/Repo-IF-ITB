@@ -5,16 +5,18 @@
 
 ### IF itu indah bro dibawa asik aja
 
-![](doc/alstruk.png)
-
-![](doc/prakoop.png)
-
-![](doc/algeo2.png)
-
-![](doc/tubes3stima.png)
-
-![](doc/beweganteng.jpg)
-
-![](doc/oop.jpg)
-
-![](doc/tubes2stima.png)
+<div style="text-align: center">
+  <img src="doc/alstruk.png">
+  <img src="doc/prakoop.png">
+  <img src="doc/algeo2.png">
+  <img src="doc/tubes3stima.png">
+  <img src="doc/beweganteng.jpg">
+  <img src="doc/oop.jpg">
+  <img src="doc/parsing.jpg">
+  <img src="doc/lokom.jpg">
+  <img src="doc/ifj.jpg">
+  <img src="doc/ngoding.jpg">
+  <img src="doc/hampirmati.jpg">
+  <img src="doc/tubes2stima.png">
+  <img src="doc/tucil3.jpg">
+</div>
