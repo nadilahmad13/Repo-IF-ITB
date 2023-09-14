@@ -10,17 +10,17 @@
 <br>
 
 <img src="doc/alstruk.png">
-<img src="doc/prakoop.png">
+<img src="doc/prakoop.png" width="88%">
 <img src="doc/algeo2.png">
-<img src="doc/tubes3stima.png">
-<img src="doc/beweganteng.jpg">
-<img src="doc/oop.jpg">
-<img src="doc/parsing.jpg">
-<img src="doc/lokom.jpg">
-<img src="doc/ifj.jpg">
-<img src="doc/ngoding.jpg">
-<img src="doc/hampirmati.jpg">
+<img src="doc/tubes3stima.png" width=75%">
+<img src="doc/beweganteng.jpg" width="70%">
+<img src="doc/oop.jpg" width="70%">
+<img src="doc/parsing.jpg" width="50%">
+<img src="doc/lokom.jpg" width="50%">
+<img src="doc/ifj.jpg" width="50%">
+<img src="doc/ngoding.jpg" width="50%">
+<img src="doc/hampirmati.jpg" width="50%">
 <img src="doc/tubes2stima.png">
-<img src="doc/tucil3.jpg">
+<img src="doc/tucil3.jpg" width="50%">
 
 </div>
